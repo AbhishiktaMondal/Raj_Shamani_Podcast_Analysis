@@ -13,3 +13,13 @@ Total Episodes : 640
 
 ## SQL Concepts Used
 SELECT, WHERE, ORDER BY, GROUP BY, HAVING, Aggregate Functions, CASE WHEN, Subqueries, CTEs, Window Functions, Date Functions
+
+
+## Power BI Features
+KPI Cards/ 
+Interactive Slicers
+Drill-down Analysis
+Dynamic Filters
+DAX Measures
+Business KPIs
+Custom Dashboard Theme
