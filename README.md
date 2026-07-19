@@ -76,7 +76,7 @@ Git & GitHub
 Analytical Thinking
 
 
-## ## 📷 Dashboard Preview
+## 📷 Dashboard Preview
 ![Dashboard](https://github.com/AbhishiktaMondal/Raj_Shamani_Podcast_Analysis/blob/main/Screenshot%202026-07-18%20210509.png)
 
 
