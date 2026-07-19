@@ -1,0 +1,641 @@
+episode_id,episode_title,guest_name,guest_profession,category,release_date,duration_minutes,views,likes,comments
+1,Figuring Out Episode 1,S. Jaishankar,Politician,Finance,2020-01-01,179,13278,391,97
+2,Figuring Out Episode 2,Nikhil Kamath,Entrepreneur,Motivation,2020-01-05,46,87397,1843,109
+3,Figuring Out Episode 3,Namita Thapar,Entrepreneur,Business,2020-01-09,80,36062,1593,121
+4,Figuring Out Episode 4,Gaur Gopal Das,Spiritual Speaker,Finance,2020-01-13,63,54597,4215,222
+5,Figuring Out Episode 5,Ranveer Allahbadia,Content Creator,Education,2020-01-17,177,6770619,217972,1473
+6,Figuring Out Episode 6,S. Jaishankar,Politician,Entertainment,2020-01-21,89,5918715,326735,23750
+7,Figuring Out Episode 7,Nikhil Kamath,Entrepreneur,Health,2020-01-25,65,793384,62708,7056
+8,Figuring Out Episode 8,Ranveer Allahbadia,Content Creator,Politics,2020-01-29,58,46434,1813,103
+9,Figuring Out Episode 9,Kunal Shah,Entrepreneur,Technology,2020-02-02,109,9961380,307933,30344
+10,Figuring Out Episode 10,Namita Thapar,Entrepreneur,Sports,2020-02-06,142,38785,1159,54
+11,Figuring Out Episode 11,Karan Johar,Filmmaker,Education,2020-02-10,76,18675,1075,100
+12,Figuring Out Episode 12,Karan Johar,Filmmaker,Sports,2020-02-14,96,5408072,286617,26225
+13,Figuring Out Episode 13,Nitin Gadkari,Politician,Startup,2020-02-18,148,76784,5449,206
+14,Figuring Out Episode 14,Kunal Shah,Entrepreneur,Politics,2020-02-22,42,7402509,590334,69402
+15,Figuring Out Episode 15,S. Jaishankar,Politician,Technology,2020-02-26,80,5476583,203243,9667
+16,Figuring Out Episode 16,Dr. Pal,Doctor,Finance,2020-03-01,116,5418934,349670,33321
+17,Figuring Out Episode 17,Aman Gupta,Entrepreneur,Motivation,2020-03-05,40,308573,19922,2259
+18,Figuring Out Episode 18,Kunal Shah,Entrepreneur,Politics,2020-03-09,101,52487,3957,463
+19,Figuring Out Episode 19,Vijay Mallya,Businessman,Motivation,2020-03-13,72,41571,2601,85
+20,Figuring Out Episode 20,Nitin Gadkari,Politician,Technology,2020-03-17,94,598369,29498,2534
+21,Figuring Out Episode 21,Namita Thapar,Entrepreneur,Sports,2020-03-21,152,847581,67539,5373
+22,Figuring Out Episode 22,Aman Gupta,Entrepreneur,Entertainment,2020-03-25,98,69177,1325,52
+23,Figuring Out Episode 23,Ritesh Agarwal,Entrepreneur,Finance,2020-03-29,48,2191066,122747,3800
+24,Figuring Out Episode 24,Ankur Warikoo,Entrepreneur,Motivation,2020-04-02,73,639131,37378,1805
+25,Figuring Out Episode 25,Ritesh Agarwal,Entrepreneur,Finance,2020-04-06,64,595631,40197,1609
+26,Figuring Out Episode 26,Gaur Gopal Das,Spiritual Speaker,Finance,2020-04-10,55,544154,38716,493
+27,Figuring Out Episode 27,Ranveer Allahbadia,Content Creator,Startup,2020-04-14,148,54473,1495,164
+28,Figuring Out Episode 28,Deepinder Goyal,Entrepreneur,Finance,2020-04-18,52,46509,2037,190
+29,Figuring Out Episode 29,Namita Thapar,Entrepreneur,Health,2020-04-22,142,11934,494,80
+30,Figuring Out Episode 30,Vijay Mallya,Businessman,Education,2020-04-26,113,497382,16034,1655
+31,Figuring Out Episode 31,Gaur Gopal Das,Spiritual Speaker,Business,2020-04-30,178,82845,2265,105
+32,Figuring Out Episode 32,Vijay Mallya,Businessman,Startup,2020-05-04,54,1841248,84681,8751
+33,Figuring Out Episode 33,Aman Gupta,Entrepreneur,Technology,2020-05-08,70,20500,1100,80
+34,Figuring Out Episode 34,Ritesh Agarwal,Entrepreneur,Entertainment,2020-05-12,173,1666754,33883,2742
+35,Figuring Out Episode 35,Ankur Warikoo,Entrepreneur,Politics,2020-05-16,157,44179,1425,66
+36,Figuring Out Episode 36,Ankur Warikoo,Entrepreneur,Finance,2020-05-20,177,8688755,694227,13154
+37,Figuring Out Episode 37,Sunita Williams,Astronaut,Sports,2020-05-24,112,378082,27318,1050
+38,Figuring Out Episode 38,Deepinder Goyal,Entrepreneur,Motivation,2020-05-28,42,6075395,479655,52944
+39,Figuring Out Episode 39,Namita Thapar,Entrepreneur,Motivation,2020-06-01,79,49240,1585,77
+40,Figuring Out Episode 40,Karan Johar,Filmmaker,Motivation,2020-06-05,165,4533779,169052,8700
+41,Figuring Out Episode 41,Karan Johar,Filmmaker,Startup,2020-06-09,107,196781,3515,220
+42,Figuring Out Episode 42,Deepinder Goyal,Entrepreneur,Startup,2020-06-13,179,8175395,127769,1282
+43,Figuring Out Episode 43,Vijay Mallya,Businessman,Sports,2020-06-17,50,710805,16550,681
+44,Figuring Out Episode 44,Ashneer Grover,Entrepreneur,Motivation,2020-06-21,144,5186414,112449,12831
+45,Figuring Out Episode 45,Kunal Shah,Entrepreneur,Startup,2020-06-25,125,30257,2187,56
+46,Figuring Out Episode 46,Gaur Gopal Das,Spiritual Speaker,Technology,2020-06-29,49,870763,22071,492
+47,Figuring Out Episode 47,Peyush Bansal,Entrepreneur,Health,2020-07-03,46,309267,10774,516
+48,Figuring Out Episode 48,Sunita Williams,Astronaut,Sports,2020-07-07,170,62227,4844,335
+49,Figuring Out Episode 49,Ranveer Allahbadia,Content Creator,Politics,2020-07-11,85,984642,74882,1939
+50,Figuring Out Episode 50,Ritesh Agarwal,Entrepreneur,Sports,2020-07-15,151,2818692,121898,11986
+51,Figuring Out Episode 51,Kunal Shah,Entrepreneur,Technology,2020-07-19,40,7462506,204137,1504
+52,Figuring Out Episode 52,Aman Gupta,Entrepreneur,Entertainment,2020-07-23,120,820221,35297,2754
+53,Figuring Out Episode 53,S. Jaishankar,Politician,Politics,2020-07-27,72,6188935,257122,13235
+54,Figuring Out Episode 54,Sunita Williams,Astronaut,Entertainment,2020-07-31,117,7361002,468371,11455
+55,Figuring Out Episode 55,Ranveer Allahbadia,Content Creator,Entertainment,2020-08-04,122,974224,32782,1810
+56,Figuring Out Episode 56,Dr. Pal,Doctor,Startup,2020-08-08,61,4585314,209810,24165
+57,Figuring Out Episode 57,Smriti Irani,Politician,Politics,2020-08-12,97,77561,5289,290
+58,Figuring Out Episode 58,Sunita Williams,Astronaut,Finance,2020-08-16,156,29313,2314,206
+59,Figuring Out Episode 59,Gaur Gopal Das,Spiritual Speaker,Technology,2020-08-20,102,4262081,256845,16249
+60,Figuring Out Episode 60,Nitin Gadkari,Politician,Startup,2020-08-24,172,95990,6296,274
+61,Figuring Out Episode 61,Dr. Pal,Doctor,Motivation,2020-08-28,121,16582,740,79
+62,Figuring Out Episode 62,Dr. Pal,Doctor,Education,2020-09-01,80,954596,65854,4538
+63,Figuring Out Episode 63,Peyush Bansal,Entrepreneur,Education,2020-09-05,101,5147994,170013,17131
+64,Figuring Out Episode 64,Karan Johar,Filmmaker,Motivation,2020-09-09,60,67654,2209,131
+65,Figuring Out Episode 65,Nitin Gadkari,Politician,Finance,2020-09-13,146,7426265,185154,7060
+66,Figuring Out Episode 66,Gaur Gopal Das,Spiritual Speaker,Technology,2020-09-17,45,668969,12742,910
+67,Figuring Out Episode 67,Ritesh Agarwal,Entrepreneur,Technology,2020-09-21,177,600149,20651,1647
+68,Figuring Out Episode 68,Namita Thapar,Entrepreneur,Business,2020-09-25,139,89069,2916,298
+69,Figuring Out Episode 69,Ankur Warikoo,Entrepreneur,Startup,2020-09-29,176,7783308,200248,15365
+70,Figuring Out Episode 70,Bill Gates,Philanthropist,Education,2020-10-03,86,61645,3500,119
+71,Figuring Out Episode 71,Vijay Mallya,Businessman,Technology,2020-10-07,111,44099,1964,136
+72,Figuring Out Episode 72,Gaur Gopal Das,Spiritual Speaker,Business,2020-10-11,129,975467,15861,1154
+73,Figuring Out Episode 73,Aamir Khan,Actor,Business,2020-10-15,79,95215,7305,254
+74,Figuring Out Episode 74,Aamir Khan,Actor,Politics,2020-10-19,134,2919136,223618,15288
+75,Figuring Out Episode 75,Deepinder Goyal,Entrepreneur,Entertainment,2020-10-23,46,89415,6948,160
+76,Figuring Out Episode 76,Smriti Irani,Politician,Finance,2020-10-27,102,810250,61737,1674
+77,Figuring Out Episode 77,S. Jaishankar,Politician,Motivation,2020-10-31,149,3030966,199653,11427
+78,Figuring Out Episode 78,Ashneer Grover,Entrepreneur,Education,2020-11-04,67,19038,1336,155
+79,Figuring Out Episode 79,Gaur Gopal Das,Spiritual Speaker,Motivation,2020-11-08,109,8713146,217344,5821
+80,Figuring Out Episode 80,Kunal Shah,Entrepreneur,Sports,2020-11-12,102,912270,39512,2248
+81,Figuring Out Episode 81,Nikhil Kamath,Entrepreneur,Technology,2020-11-16,126,572700,29803,2786
+82,Figuring Out Episode 82,Bill Gates,Philanthropist,Politics,2020-11-20,127,74789,3491,231
+83,Figuring Out Episode 83,Karan Johar,Filmmaker,Finance,2020-11-24,101,5635017,88243,3180
+84,Figuring Out Episode 84,Gaur Gopal Das,Spiritual Speaker,Education,2020-11-28,154,5031966,231198,23375
+85,Figuring Out Episode 85,Bill Gates,Philanthropist,Entertainment,2020-12-02,134,408528,24497,1304
+86,Figuring Out Episode 86,Peyush Bansal,Entrepreneur,Sports,2020-12-06,130,656711,52393,4558
+87,Figuring Out Episode 87,Dr. Pal,Doctor,Sports,2020-12-10,70,45509,1039,74
+88,Figuring Out Episode 88,Namita Thapar,Entrepreneur,Entertainment,2020-12-14,174,4630331,215184,23793
+89,Figuring Out Episode 89,Kunal Shah,Entrepreneur,Politics,2020-12-18,43,205409,6118,233
+90,Figuring Out Episode 90,Namita Thapar,Entrepreneur,Startup,2020-12-22,165,26591,1355,139
+91,Figuring Out Episode 91,S. Jaishankar,Politician,Startup,2020-12-26,53,701949,32371,1445
+92,Figuring Out Episode 92,Karan Johar,Filmmaker,Business,2020-12-30,78,219629,10314,1231
+93,Figuring Out Episode 93,Nitin Gadkari,Politician,Entertainment,2021-01-03,97,83772,1901,156
+94,Figuring Out Episode 94,Aman Gupta,Entrepreneur,Politics,2021-01-07,55,572398,40589,3562
+95,Figuring Out Episode 95,Kunal Shah,Entrepreneur,Finance,2021-01-11,80,4486102,128825,10870
+96,Figuring Out Episode 96,Aamir Khan,Actor,Entertainment,2021-01-15,160,32782,497,78
+97,Figuring Out Episode 97,Smriti Irani,Politician,Finance,2021-01-19,99,5833597,194706,14927
+98,Figuring Out Episode 98,Karan Johar,Filmmaker,Startup,2021-01-23,108,718439,16136,510
+99,Figuring Out Episode 99,Nitin Gadkari,Politician,Entertainment,2021-01-27,113,162535,8724,894
+100,Figuring Out Episode 100,Dr. Pal,Doctor,Motivation,2021-01-31,178,6101803,251168,8970
+101,Figuring Out Episode 101,Peyush Bansal,Entrepreneur,Politics,2021-02-04,46,184349,11566,1286
+102,Figuring Out Episode 102,Nikhil Kamath,Entrepreneur,Business,2021-02-08,84,1348050,92196,9491
+103,Figuring Out Episode 103,Peyush Bansal,Entrepreneur,Technology,2021-02-12,165,783157,20986,2447
+104,Figuring Out Episode 104,Nikhil Kamath,Entrepreneur,Startup,2021-02-16,124,464863,16674,264
+105,Figuring Out Episode 105,Gaur Gopal Das,Spiritual Speaker,Sports,2021-02-20,104,7718473,134188,1492
+106,Figuring Out Episode 106,Ankur Warikoo,Entrepreneur,Motivation,2021-02-24,158,7780932,533929,125
+107,Figuring Out Episode 107,Gaur Gopal Das,Spiritual Speaker,Education,2021-02-28,53,296694,16457,1070
+108,Figuring Out Episode 108,Sunita Williams,Astronaut,Education,2021-03-04,71,675898,29386,2910
+109,Figuring Out Episode 109,Bill Gates,Philanthropist,Business,2021-03-08,144,5014745,126845,9074
+110,Figuring Out Episode 110,Nikhil Kamath,Entrepreneur,Education,2021-03-12,114,982277,75202,2572
+111,Figuring Out Episode 111,Aman Gupta,Entrepreneur,Startup,2021-03-16,138,535673,16521,1178
+112,Figuring Out Episode 112,Sunita Williams,Astronaut,Sports,2021-03-20,169,88561,2918,262
+113,Figuring Out Episode 113,Karan Johar,Filmmaker,Startup,2021-03-24,154,6008935,316640,32139
+114,Figuring Out Episode 114,Namita Thapar,Entrepreneur,Education,2021-03-28,122,6577416,424813,24770
+115,Figuring Out Episode 115,Sunita Williams,Astronaut,Business,2021-04-01,121,41300,2917,260
+116,Figuring Out Episode 116,Peyush Bansal,Entrepreneur,Motivation,2021-04-05,124,504832,39232,1084
+117,Figuring Out Episode 117,S. Jaishankar,Politician,Technology,2021-04-09,79,204555,3272,123
+118,Figuring Out Episode 118,Nikhil Kamath,Entrepreneur,Finance,2021-04-13,124,919488,51042,3306
+119,Figuring Out Episode 119,Namita Thapar,Entrepreneur,Health,2021-04-17,113,9186400,159231,2292
+120,Figuring Out Episode 120,Aamir Khan,Actor,Education,2021-04-21,82,2651601,161092,3343
+121,Figuring Out Episode 121,Smriti Irani,Politician,Technology,2021-04-25,77,13794,469,73
+122,Figuring Out Episode 122,Aamir Khan,Actor,Technology,2021-04-29,101,79621,2100,206
+123,Figuring Out Episode 123,Peyush Bansal,Entrepreneur,Politics,2021-05-03,42,250069,14119,991
+124,Figuring Out Episode 124,Dr. Pal,Doctor,Entertainment,2021-05-07,116,47700,2085,138
+125,Figuring Out Episode 125,Gaur Gopal Das,Spiritual Speaker,Finance,2021-05-11,100,42780,3420,297
+126,Figuring Out Episode 126,Ranveer Allahbadia,Content Creator,Technology,2021-05-15,110,5963914,203906,21618
+127,Figuring Out Episode 127,Bill Gates,Philanthropist,Politics,2021-05-19,98,1822825,115633,13695
+128,Figuring Out Episode 128,Kunal Shah,Entrepreneur,Startup,2021-05-23,64,4189885,131104,12429
+129,Figuring Out Episode 129,Vijay Mallya,Businessman,Finance,2021-05-27,115,50492,2659,117
+130,Figuring Out Episode 130,Ankur Warikoo,Entrepreneur,Sports,2021-05-31,175,64460,4262,498
+131,Figuring Out Episode 131,Aman Gupta,Entrepreneur,Politics,2021-06-04,126,970813,72241,7944
+132,Figuring Out Episode 132,S. Jaishankar,Politician,Motivation,2021-06-08,133,71385,5061,456
+133,Figuring Out Episode 133,Nikhil Kamath,Entrepreneur,Politics,2021-06-12,137,5436878,125229,6088
+134,Figuring Out Episode 134,Ashneer Grover,Entrepreneur,Sports,2021-06-16,96,807617,13427,1199
+135,Figuring Out Episode 135,Nikhil Kamath,Entrepreneur,Finance,2021-06-20,75,8789116,304475,26808
+136,Figuring Out Episode 136,Vijay Mallya,Businessman,Startup,2021-06-24,139,14877,317,84
+137,Figuring Out Episode 137,Dr. Pal,Doctor,Technology,2021-06-28,65,8031780,507989,10176
+138,Figuring Out Episode 138,Peyush Bansal,Entrepreneur,Education,2021-07-02,153,90694,5429,272
+139,Figuring Out Episode 139,Aamir Khan,Actor,Sports,2021-07-06,55,7162857,527259,42309
+140,Figuring Out Episode 140,Ranveer Allahbadia,Content Creator,Entertainment,2021-07-10,45,299028,6267,267
+141,Figuring Out Episode 141,Vijay Mallya,Businessman,Health,2021-07-14,95,3112652,88207,9130
+142,Figuring Out Episode 142,Aamir Khan,Actor,Startup,2021-07-18,178,3475548,52773,1235
+143,Figuring Out Episode 143,Karan Johar,Filmmaker,Health,2021-07-22,122,32871,524,100
+144,Figuring Out Episode 144,Bill Gates,Philanthropist,Finance,2021-07-26,56,32838,2075,184
+145,Figuring Out Episode 145,Peyush Bansal,Entrepreneur,Motivation,2021-07-30,96,7074006,379083,29672
+146,Figuring Out Episode 146,Kunal Shah,Entrepreneur,Business,2021-08-03,162,862569,38619,305
+147,Figuring Out Episode 147,Ranveer Allahbadia,Content Creator,Finance,2021-08-07,60,819425,50235,3683
+148,Figuring Out Episode 148,Ankur Warikoo,Entrepreneur,Motivation,2021-08-11,123,89730,2949,349
+149,Figuring Out Episode 149,Ranveer Allahbadia,Content Creator,Finance,2021-08-15,69,656329,31412,1812
+150,Figuring Out Episode 150,Namita Thapar,Entrepreneur,Technology,2021-08-19,146,38183,1599,166
+151,Figuring Out Episode 151,S. Jaishankar,Politician,Education,2021-08-23,57,6243275,197086,5051
+152,Figuring Out Episode 152,Nikhil Kamath,Entrepreneur,Startup,2021-08-27,55,21188,1343,97
+153,Figuring Out Episode 153,Ritesh Agarwal,Entrepreneur,Technology,2021-08-31,53,6530541,149843,11636
+154,Figuring Out Episode 154,Smriti Irani,Politician,Startup,2021-09-04,163,88696,4662,158
+155,Figuring Out Episode 155,Aamir Khan,Actor,Technology,2021-09-08,46,24184,1561,107
+156,Figuring Out Episode 156,Kunal Shah,Entrepreneur,Sports,2021-09-12,129,96223,2571,208
+157,Figuring Out Episode 157,Bill Gates,Philanthropist,Business,2021-09-16,63,33777,818,90
+158,Figuring Out Episode 158,Aman Gupta,Entrepreneur,Politics,2021-09-20,123,494468,18373,1565
+159,Figuring Out Episode 159,Ritesh Agarwal,Entrepreneur,Business,2021-09-24,60,88148,2224,208
+160,Figuring Out Episode 160,Karan Johar,Filmmaker,Politics,2021-09-28,95,794093,43246,3442
+161,Figuring Out Episode 161,Aman Gupta,Entrepreneur,Entertainment,2021-10-02,164,24918,832,93
+162,Figuring Out Episode 162,Aman Gupta,Entrepreneur,Business,2021-10-06,41,97442,3965,356
+163,Figuring Out Episode 163,Sunita Williams,Astronaut,Business,2021-10-10,167,321494,10871,295
+164,Figuring Out Episode 164,Gaur Gopal Das,Spiritual Speaker,Motivation,2021-10-14,130,7378822,448179,32835
+165,Figuring Out Episode 165,Nikhil Kamath,Entrepreneur,Sports,2021-10-18,149,878086,14240,209
+166,Figuring Out Episode 166,Ritesh Agarwal,Entrepreneur,Sports,2021-10-22,83,843963,18977,135
+167,Figuring Out Episode 167,Kunal Shah,Entrepreneur,Health,2021-10-26,151,70305,3050,104
+168,Figuring Out Episode 168,Ritesh Agarwal,Entrepreneur,Health,2021-10-30,125,649414,46487,2831
+169,Figuring Out Episode 169,Deepinder Goyal,Entrepreneur,Sports,2021-11-03,77,2913049,140254,11498
+170,Figuring Out Episode 170,Aamir Khan,Actor,Finance,2021-11-07,85,23474,616,59
+171,Figuring Out Episode 171,Peyush Bansal,Entrepreneur,Entertainment,2021-11-11,122,8531380,640450,74039
+172,Figuring Out Episode 172,Ankur Warikoo,Entrepreneur,Politics,2021-11-15,54,561124,24545,1290
+173,Figuring Out Episode 173,Ashneer Grover,Entrepreneur,Sports,2021-11-19,113,177794,7889,108
+174,Figuring Out Episode 174,Nikhil Kamath,Entrepreneur,Education,2021-11-23,50,2514923,134838,6349
+175,Figuring Out Episode 175,Dr. Pal,Doctor,Startup,2021-11-27,55,783501,42563,4157
+176,Figuring Out Episode 176,Dr. Pal,Doctor,Business,2021-12-01,103,6761929,138493,5704
+177,Figuring Out Episode 177,Dr. Pal,Doctor,Politics,2021-12-05,139,9770256,247368,12267
+178,Figuring Out Episode 178,Gaur Gopal Das,Spiritual Speaker,Sports,2021-12-09,64,1878547,107217,1129
+179,Figuring Out Episode 179,Namita Thapar,Entrepreneur,Entertainment,2021-12-13,78,505341,31352,2739
+180,Figuring Out Episode 180,Ankur Warikoo,Entrepreneur,Technology,2021-12-17,73,711046,25003,2737
+181,Figuring Out Episode 181,Kunal Shah,Entrepreneur,Startup,2021-12-21,174,7319630,486448,53342
+182,Figuring Out Episode 182,Nikhil Kamath,Entrepreneur,Politics,2021-12-25,86,8103580,312140,23813
+183,Figuring Out Episode 183,Sunita Williams,Astronaut,Startup,2021-12-29,59,54791,1628,85
+184,Figuring Out Episode 184,Smriti Irani,Politician,Entertainment,2022-01-02,73,23256,1349,148
+185,Figuring Out Episode 185,Kunal Shah,Entrepreneur,Entertainment,2022-01-06,82,59377,4099,444
+186,Figuring Out Episode 186,Dr. Pal,Doctor,Entertainment,2022-01-10,112,7111929,439325,29161
+187,Figuring Out Episode 187,Dr. Pal,Doctor,Health,2022-01-14,134,659951,51320,3892
+188,Figuring Out Episode 188,Ritesh Agarwal,Entrepreneur,Startup,2022-01-18,91,584106,27855,1764
+189,Figuring Out Episode 189,Kunal Shah,Entrepreneur,Motivation,2022-01-22,66,1875431,86716,6131
+190,Figuring Out Episode 190,Aman Gupta,Entrepreneur,Startup,2022-01-26,151,26341,862,82
+191,Figuring Out Episode 191,Nikhil Kamath,Entrepreneur,Business,2022-01-30,141,956375,72187,6847
+192,Figuring Out Episode 192,Aman Gupta,Entrepreneur,Sports,2022-02-03,65,59015,2323,57
+193,Figuring Out Episode 193,Ankur Warikoo,Entrepreneur,Startup,2022-02-07,160,244283,18231,1985
+194,Figuring Out Episode 194,Dr. Pal,Doctor,Motivation,2022-02-11,175,90654,2867,126
+195,Figuring Out Episode 195,Gaur Gopal Das,Spiritual Speaker,Health,2022-02-15,147,24573,849,53
+196,Figuring Out Episode 196,Kunal Shah,Entrepreneur,Motivation,2022-02-19,101,165858,8921,66
+197,Figuring Out Episode 197,Nitin Gadkari,Politician,Startup,2022-02-23,61,1026245,38928,3462
+198,Figuring Out Episode 198,Aman Gupta,Entrepreneur,Motivation,2022-02-27,45,9825812,471406,33317
+199,Figuring Out Episode 199,Ranveer Allahbadia,Content Creator,Sports,2022-03-03,57,145649,4586,58
+200,Figuring Out Episode 200,Ashneer Grover,Entrepreneur,Startup,2022-03-07,51,2739191,171986,10945
+201,Figuring Out Episode 201,Ashneer Grover,Entrepreneur,Startup,2022-03-11,74,3937508,177977,15730
+202,Figuring Out Episode 202,Nikhil Kamath,Entrepreneur,Business,2022-03-15,120,69988,1249,75
+203,Figuring Out Episode 203,Smriti Irani,Politician,Politics,2022-03-19,131,517568,8995,441
+204,Figuring Out Episode 204,Vijay Mallya,Businessman,Technology,2022-03-23,152,95948,6424,497
+205,Figuring Out Episode 205,Ranveer Allahbadia,Content Creator,Motivation,2022-03-27,108,9324908,441432,52301
+206,Figuring Out Episode 206,Nikhil Kamath,Entrepreneur,Motivation,2022-03-31,115,8224389,655330,23702
+207,Figuring Out Episode 207,Ankur Warikoo,Entrepreneur,Entertainment,2022-04-04,149,6501583,222462,14661
+208,Figuring Out Episode 208,Deepinder Goyal,Entrepreneur,Entertainment,2022-04-08,151,68183,4243,230
+209,Figuring Out Episode 209,Karan Johar,Filmmaker,Sports,2022-04-12,171,93816,5500,465
+210,Figuring Out Episode 210,Deepinder Goyal,Entrepreneur,Sports,2022-04-16,132,14081,326,65
+211,Figuring Out Episode 211,Ranveer Allahbadia,Content Creator,Sports,2022-04-20,153,3574265,158143,12205
+212,Figuring Out Episode 212,Nikhil Kamath,Entrepreneur,Health,2022-04-24,69,244383,9988,620
+213,Figuring Out Episode 213,Bill Gates,Philanthropist,Politics,2022-04-28,106,623285,46360,1014
+214,Figuring Out Episode 214,Dr. Pal,Doctor,Health,2022-05-02,71,5791184,431855,32241
+215,Figuring Out Episode 215,Nitin Gadkari,Politician,Sports,2022-05-06,128,3896693,171190,2926
+216,Figuring Out Episode 216,Nikhil Kamath,Entrepreneur,Startup,2022-05-10,132,668507,47021,5274
+217,Figuring Out Episode 217,Aman Gupta,Entrepreneur,Business,2022-05-14,132,39391,1197,113
+218,Figuring Out Episode 218,Namita Thapar,Entrepreneur,Finance,2022-05-18,119,8841768,207207,2875
+219,Figuring Out Episode 219,Ranveer Allahbadia,Content Creator,Startup,2022-05-22,121,651231,44620,654
+220,Figuring Out Episode 220,Nikhil Kamath,Entrepreneur,Motivation,2022-05-26,86,588461,13735,1647
+221,Figuring Out Episode 221,Nitin Gadkari,Politician,Startup,2022-05-30,81,66704,3246,205
+222,Figuring Out Episode 222,Ankur Warikoo,Entrepreneur,Health,2022-06-03,110,462831,32391,1076
+223,Figuring Out Episode 223,Nitin Gadkari,Politician,Entertainment,2022-06-07,79,91922,4381,136
+224,Figuring Out Episode 224,Deepinder Goyal,Entrepreneur,Finance,2022-06-11,51,6664316,117809,514
+225,Figuring Out Episode 225,Ritesh Agarwal,Entrepreneur,Business,2022-06-15,167,4536777,190899,20988
+226,Figuring Out Episode 226,Namita Thapar,Entrepreneur,Technology,2022-06-19,116,773088,23901,2855
+227,Figuring Out Episode 227,Dr. Pal,Doctor,Education,2022-06-23,92,19564,852,80
+228,Figuring Out Episode 228,Ankur Warikoo,Entrepreneur,Technology,2022-06-27,73,6244264,223267,11367
+229,Figuring Out Episode 229,Ashneer Grover,Entrepreneur,Politics,2022-07-01,155,688933,21159,551
+230,Figuring Out Episode 230,Aamir Khan,Actor,Entertainment,2022-07-05,147,201514,15405,1819
+231,Figuring Out Episode 231,Aamir Khan,Actor,Startup,2022-07-09,167,6493461,401772,12490
+232,Figuring Out Episode 232,Aman Gupta,Entrepreneur,Motivation,2022-07-13,157,622987,10283,855
+233,Figuring Out Episode 233,Aamir Khan,Actor,Entertainment,2022-07-17,160,38199,698,81
+234,Figuring Out Episode 234,Smriti Irani,Politician,Sports,2022-07-21,143,108574,2573,185
+235,Figuring Out Episode 235,Ashneer Grover,Entrepreneur,Motivation,2022-07-25,113,1858283,95735,5989
+236,Figuring Out Episode 236,Nikhil Kamath,Entrepreneur,Startup,2022-07-29,64,8555692,283893,7836
+237,Figuring Out Episode 237,Ranveer Allahbadia,Content Creator,Startup,2022-08-02,90,6688907,508568,49527
+238,Figuring Out Episode 238,Kunal Shah,Entrepreneur,Sports,2022-08-06,161,76731,1376,67
+239,Figuring Out Episode 239,Aman Gupta,Entrepreneur,Sports,2022-08-10,81,69898,2538,206
+240,Figuring Out Episode 240,Ranveer Allahbadia,Content Creator,Motivation,2022-08-14,165,6020319,221934,16752
+241,Figuring Out Episode 241,Ritesh Agarwal,Entrepreneur,Technology,2022-08-18,118,597960,21843,498
+242,Figuring Out Episode 242,Bill Gates,Philanthropist,Entertainment,2022-08-22,98,5454861,359414,37960
+243,Figuring Out Episode 243,Vijay Mallya,Businessman,Technology,2022-08-26,77,3860717,215762,20357
+244,Figuring Out Episode 244,Aamir Khan,Actor,Technology,2022-08-30,78,14138,229,70
+245,Figuring Out Episode 245,Gaur Gopal Das,Spiritual Speaker,Startup,2022-09-03,172,9419134,704870,8213
+246,Figuring Out Episode 246,Sunita Williams,Astronaut,Education,2022-09-07,176,9025733,356458,11399
+247,Figuring Out Episode 247,Ankur Warikoo,Entrepreneur,Politics,2022-09-11,116,5435261,252585,8127
+248,Figuring Out Episode 248,Aamir Khan,Actor,Sports,2022-09-15,162,5848684,166529,16073
+249,Figuring Out Episode 249,Ashneer Grover,Entrepreneur,Technology,2022-09-19,141,934042,21409,2274
+250,Figuring Out Episode 250,Ashneer Grover,Entrepreneur,Sports,2022-09-23,153,404561,31189,373
+251,Figuring Out Episode 251,Karan Johar,Filmmaker,Startup,2022-09-27,67,4390138,143222,8950
+252,Figuring Out Episode 252,Kunal Shah,Entrepreneur,Health,2022-10-01,99,86917,5088,593
+253,Figuring Out Episode 253,Vijay Mallya,Businessman,Business,2022-10-05,180,6541407,298983,9059
+254,Figuring Out Episode 254,Deepinder Goyal,Entrepreneur,Sports,2022-10-09,113,784607,44946,2403
+255,Figuring Out Episode 255,Vijay Mallya,Businessman,Startup,2022-10-13,146,4896008,308520,2494
+256,Figuring Out Episode 256,Deepinder Goyal,Entrepreneur,Politics,2022-10-17,49,976822,26481,3117
+257,Figuring Out Episode 257,Bill Gates,Philanthropist,Motivation,2022-10-21,174,695551,23298,2676
+258,Figuring Out Episode 258,Peyush Bansal,Entrepreneur,Finance,2022-10-25,124,992400,32485,3362
+259,Figuring Out Episode 259,Deepinder Goyal,Entrepreneur,Politics,2022-10-29,89,5316188,144084,11096
+260,Figuring Out Episode 260,Deepinder Goyal,Entrepreneur,Technology,2022-11-02,64,997734,48383,760
+261,Figuring Out Episode 261,Deepinder Goyal,Entrepreneur,Health,2022-11-06,154,28430,439,74
+262,Figuring Out Episode 262,Karan Johar,Filmmaker,Business,2022-11-10,70,416613,23950,1017
+263,Figuring Out Episode 263,Dr. Pal,Doctor,Finance,2022-11-14,115,7801762,371861,20430
+264,Figuring Out Episode 264,Ashneer Grover,Entrepreneur,Entertainment,2022-11-18,135,90560,4173,282
+265,Figuring Out Episode 265,Gaur Gopal Das,Spiritual Speaker,Motivation,2022-11-22,154,81989,4855,133
+266,Figuring Out Episode 266,Aman Gupta,Entrepreneur,Health,2022-11-26,177,57419,3954,308
+267,Figuring Out Episode 267,Nitin Gadkari,Politician,Entertainment,2022-11-30,165,444056,10015,470
+268,Figuring Out Episode 268,Nikhil Kamath,Entrepreneur,Education,2022-12-04,54,567122,13370,900
+269,Figuring Out Episode 269,Namita Thapar,Entrepreneur,Business,2022-12-08,95,6170227,101284,4219
+270,Figuring Out Episode 270,Ritesh Agarwal,Entrepreneur,Business,2022-12-12,57,147489,8926,604
+271,Figuring Out Episode 271,Peyush Bansal,Entrepreneur,Technology,2022-12-16,135,14159,920,99
+272,Figuring Out Episode 272,Ranveer Allahbadia,Content Creator,Motivation,2022-12-20,74,68790,4084,388
+273,Figuring Out Episode 273,Ashneer Grover,Entrepreneur,Business,2022-12-24,45,7594429,176779,7347
+274,Figuring Out Episode 274,Smriti Irani,Politician,Health,2022-12-28,157,8115687,321811,15101
+275,Figuring Out Episode 275,Ashneer Grover,Entrepreneur,Technology,2023-01-01,44,4162177,269529,1105
+276,Figuring Out Episode 276,Aamir Khan,Actor,Business,2023-01-05,102,2692765,46268,4947
+277,Figuring Out Episode 277,Vijay Mallya,Businessman,Startup,2023-01-09,168,4931560,143619,1899
+278,Figuring Out Episode 278,Smriti Irani,Politician,Health,2023-01-13,117,6350316,342057,21065
+279,Figuring Out Episode 279,Nitin Gadkari,Politician,Motivation,2023-01-17,84,646571,22327,299
+280,Figuring Out Episode 280,Gaur Gopal Das,Spiritual Speaker,Technology,2023-01-21,174,619696,47222,5549
+281,Figuring Out Episode 281,Ankur Warikoo,Entrepreneur,Education,2023-01-25,101,528090,20843,2253
+282,Figuring Out Episode 282,Aamir Khan,Actor,Technology,2023-01-29,175,999197,74398,6811
+283,Figuring Out Episode 283,Nitin Gadkari,Politician,Education,2023-02-02,134,60910,2221,70
+284,Figuring Out Episode 284,Nikhil Kamath,Entrepreneur,Finance,2023-02-06,88,80206,2602,70
+285,Figuring Out Episode 285,Ritesh Agarwal,Entrepreneur,Politics,2023-02-10,43,685997,19604,1413
+286,Figuring Out Episode 286,Sunita Williams,Astronaut,Health,2023-02-14,92,2968239,237376,15743
+287,Figuring Out Episode 287,Ranveer Allahbadia,Content Creator,Sports,2023-02-18,118,678897,26981,2235
+288,Figuring Out Episode 288,Karan Johar,Filmmaker,Education,2023-02-22,121,637727,13653,1529
+289,Figuring Out Episode 289,Sunita Williams,Astronaut,Startup,2023-02-26,44,58589,3021,163
+290,Figuring Out Episode 290,Karan Johar,Filmmaker,Health,2023-03-02,137,712401,17743,1401
+291,Figuring Out Episode 291,Ritesh Agarwal,Entrepreneur,Education,2023-03-06,157,623555,40293,4052
+292,Figuring Out Episode 292,Deepinder Goyal,Entrepreneur,Motivation,2023-03-10,55,3348114,169165,6080
+293,Figuring Out Episode 293,Aman Gupta,Entrepreneur,Technology,2023-03-14,75,2247057,40791,102
+294,Figuring Out Episode 294,Aamir Khan,Actor,Sports,2023-03-18,55,18908,552,79
+295,Figuring Out Episode 295,Kunal Shah,Entrepreneur,Motivation,2023-03-22,145,9106820,425384,483
+296,Figuring Out Episode 296,Bill Gates,Philanthropist,Motivation,2023-03-26,150,5609384,440539,1173
+297,Figuring Out Episode 297,Deepinder Goyal,Entrepreneur,Motivation,2023-03-30,104,24026,736,89
+298,Figuring Out Episode 298,Ashneer Grover,Entrepreneur,Education,2023-04-03,102,45038,1767,153
+299,Figuring Out Episode 299,Aamir Khan,Actor,Business,2023-04-07,63,2352527,186929,21345
+300,Figuring Out Episode 300,Ranveer Allahbadia,Content Creator,Finance,2023-04-11,167,59710,3366,137
+301,Figuring Out Episode 301,Gaur Gopal Das,Spiritual Speaker,Motivation,2023-04-15,50,6557798,514960,6299
+302,Figuring Out Episode 302,Aamir Khan,Actor,Politics,2023-04-19,179,825916,14888,202
+303,Figuring Out Episode 303,Ritesh Agarwal,Entrepreneur,Entertainment,2023-04-23,76,134500,2154,103
+304,Figuring Out Episode 304,Ranveer Allahbadia,Content Creator,Motivation,2023-04-27,124,3725462,114113,6425
+305,Figuring Out Episode 305,Ranveer Allahbadia,Content Creator,Business,2023-05-01,65,2315798,146948,11383
+306,Figuring Out Episode 306,Gaur Gopal Das,Spiritual Speaker,Entertainment,2023-05-05,141,979414,53217,5078
+307,Figuring Out Episode 307,Ankur Warikoo,Entrepreneur,Motivation,2023-05-09,136,764926,35866,2964
+308,Figuring Out Episode 308,Gaur Gopal Das,Spiritual Speaker,Health,2023-05-13,58,34345,2238,125
+309,Figuring Out Episode 309,Nikhil Kamath,Entrepreneur,Technology,2023-05-17,121,7375341,486424,10160
+310,Figuring Out Episode 310,Ashneer Grover,Entrepreneur,Politics,2023-05-21,66,195966,8604,829
+311,Figuring Out Episode 311,Nitin Gadkari,Politician,Technology,2023-05-25,66,296494,15181,1099
+312,Figuring Out Episode 312,Bill Gates,Philanthropist,Technology,2023-05-29,43,2561359,137987,10680
+313,Figuring Out Episode 313,Smriti Irani,Politician,Entertainment,2023-06-02,173,2421022,178123,8004
+314,Figuring Out Episode 314,Deepinder Goyal,Entrepreneur,Education,2023-06-06,77,99825,3242,187
+315,Figuring Out Episode 315,Nikhil Kamath,Entrepreneur,Sports,2023-06-10,104,555791,19165,365
+316,Figuring Out Episode 316,Aamir Khan,Actor,Business,2023-06-14,141,619886,13608,673
+317,Figuring Out Episode 317,Ankur Warikoo,Entrepreneur,Politics,2023-06-18,122,498343,18318,607
+318,Figuring Out Episode 318,Kunal Shah,Entrepreneur,Politics,2023-06-22,165,36326,2822,213
+319,Figuring Out Episode 319,Ritesh Agarwal,Entrepreneur,Sports,2023-06-26,69,441716,30068,1659
+320,Figuring Out Episode 320,Ritesh Agarwal,Entrepreneur,Education,2023-06-30,93,4018677,260792,931
+321,Figuring Out Episode 321,Dr. Pal,Doctor,Politics,2023-07-04,101,971662,57078,1190
+322,Figuring Out Episode 322,Karan Johar,Filmmaker,Entertainment,2023-07-08,142,261630,5182,540
+323,Figuring Out Episode 323,Namita Thapar,Entrepreneur,Motivation,2023-07-12,61,8017921,139429,11831
+324,Figuring Out Episode 324,S. Jaishankar,Politician,Entertainment,2023-07-16,142,42536,2426,61
+325,Figuring Out Episode 325,Ankur Warikoo,Entrepreneur,Motivation,2023-07-20,96,66420,2113,180
+326,Figuring Out Episode 326,Dr. Pal,Doctor,Startup,2023-07-24,128,8768911,467017,32848
+327,Figuring Out Episode 327,Bill Gates,Philanthropist,Finance,2023-07-28,76,209627,15687,225
+328,Figuring Out Episode 328,Ashneer Grover,Entrepreneur,Education,2023-08-01,64,50880,2486,139
+329,Figuring Out Episode 329,Dr. Pal,Doctor,Finance,2023-08-05,45,434400,7777,777
+330,Figuring Out Episode 330,Ankur Warikoo,Entrepreneur,Motivation,2023-08-09,80,3757404,115932,2908
+331,Figuring Out Episode 331,Ankur Warikoo,Entrepreneur,Startup,2023-08-13,150,83380,5574,238
+332,Figuring Out Episode 332,Ranveer Allahbadia,Content Creator,Business,2023-08-17,94,873207,46710,3235
+333,Figuring Out Episode 333,Sunita Williams,Astronaut,Startup,2023-08-21,133,2049645,44300,4448
+334,Figuring Out Episode 334,Ankur Warikoo,Entrepreneur,Motivation,2023-08-25,120,579776,33972,2054
+335,Figuring Out Episode 335,Kunal Shah,Entrepreneur,Education,2023-08-29,84,7585795,170112,11583
+336,Figuring Out Episode 336,Smriti Irani,Politician,Health,2023-09-02,118,2421902,57415,1015
+337,Figuring Out Episode 337,S. Jaishankar,Politician,Startup,2023-09-06,138,3371602,135707,9821
+338,Figuring Out Episode 338,Gaur Gopal Das,Spiritual Speaker,Startup,2023-09-10,87,3906397,100965,4782
+339,Figuring Out Episode 339,Ankur Warikoo,Entrepreneur,Startup,2023-09-14,89,749498,57613,4019
+340,Figuring Out Episode 340,Ranveer Allahbadia,Content Creator,Education,2023-09-18,165,629990,37487,3454
+341,Figuring Out Episode 341,Deepinder Goyal,Entrepreneur,Health,2023-09-22,177,20835,708,67
+342,Figuring Out Episode 342,Smriti Irani,Politician,Motivation,2023-09-26,170,8672579,548659,64971
+343,Figuring Out Episode 343,S. Jaishankar,Politician,Motivation,2023-09-30,50,5494430,376441,24092
+344,Figuring Out Episode 344,Dr. Pal,Doctor,Politics,2023-10-04,48,81611,5128,303
+345,Figuring Out Episode 345,Dr. Pal,Doctor,Health,2023-10-08,93,465509,33164,530
+346,Figuring Out Episode 346,Ritesh Agarwal,Entrepreneur,Health,2023-10-12,55,55957,3080,155
+347,Figuring Out Episode 347,Ritesh Agarwal,Entrepreneur,Politics,2023-10-16,114,5715824,285905,21260
+348,Figuring Out Episode 348,Ritesh Agarwal,Entrepreneur,Technology,2023-10-20,55,9630451,654743,17821
+349,Figuring Out Episode 349,Karan Johar,Filmmaker,Health,2023-10-24,140,95969,2351,132
+350,Figuring Out Episode 350,Peyush Bansal,Entrepreneur,Finance,2023-10-28,63,5508325,230934,14860
+351,Figuring Out Episode 351,Ranveer Allahbadia,Content Creator,Education,2023-11-01,164,5667852,429973,24237
+352,Figuring Out Episode 352,Ankur Warikoo,Entrepreneur,Sports,2023-11-05,56,2562657,200373,20852
+353,Figuring Out Episode 353,Namita Thapar,Entrepreneur,Politics,2023-11-09,126,62129,2929,215
+354,Figuring Out Episode 354,Namita Thapar,Entrepreneur,Business,2023-11-13,51,236937,17324,1611
+355,Figuring Out Episode 355,S. Jaishankar,Politician,Education,2023-11-17,156,92074,2124,90
+356,Figuring Out Episode 356,Bill Gates,Philanthropist,Finance,2023-11-21,132,3213134,111242,4539
+357,Figuring Out Episode 357,Karan Johar,Filmmaker,Health,2023-11-25,149,20803,847,69
+358,Figuring Out Episode 358,Nikhil Kamath,Entrepreneur,Health,2023-11-29,172,101139,2029,201
+359,Figuring Out Episode 359,Dr. Pal,Doctor,Startup,2023-12-03,162,11217,888,77
+360,Figuring Out Episode 360,Nikhil Kamath,Entrepreneur,Sports,2023-12-07,134,2498726,168382,3431
+361,Figuring Out Episode 361,Smriti Irani,Politician,Finance,2023-12-11,175,3233823,257221,4731
+362,Figuring Out Episode 362,Ritesh Agarwal,Entrepreneur,Startup,2023-12-15,145,739966,27990,922
+363,Figuring Out Episode 363,Kunal Shah,Entrepreneur,Finance,2023-12-19,138,99989,7327,193
+364,Figuring Out Episode 364,Ashneer Grover,Entrepreneur,Health,2023-12-23,112,66280,2187,71
+365,Figuring Out Episode 365,Bill Gates,Philanthropist,Technology,2023-12-27,115,4446807,242129,6231
+366,Figuring Out Episode 366,Vijay Mallya,Businessman,Entertainment,2023-12-31,58,41370,1268,131
+367,Figuring Out Episode 367,Aman Gupta,Entrepreneur,Technology,2024-01-04,133,11581,464,86
+368,Figuring Out Episode 368,Namita Thapar,Entrepreneur,Business,2024-01-08,107,99514,1600,67
+369,Figuring Out Episode 369,Sunita Williams,Astronaut,Motivation,2024-01-12,146,7676912,258110,23401
+370,Figuring Out Episode 370,Gaur Gopal Das,Spiritual Speaker,Motivation,2024-01-16,92,186431,3809,90
+371,Figuring Out Episode 371,Nitin Gadkari,Politician,Finance,2024-01-20,119,7555386,424832,42637
+372,Figuring Out Episode 372,Gaur Gopal Das,Spiritual Speaker,Education,2024-01-24,54,41278,3100,109
+373,Figuring Out Episode 373,Smriti Irani,Politician,Business,2024-01-28,81,97304,1539,85
+374,Figuring Out Episode 374,Peyush Bansal,Entrepreneur,Startup,2024-02-01,108,9677559,308240,24420
+375,Figuring Out Episode 375,S. Jaishankar,Politician,Entertainment,2024-02-05,59,451284,22135,1127
+376,Figuring Out Episode 376,Peyush Bansal,Entrepreneur,Startup,2024-02-09,134,69663,3307,340
+377,Figuring Out Episode 377,Deepinder Goyal,Entrepreneur,Health,2024-02-13,170,2726457,160364,3829
+378,Figuring Out Episode 378,Bill Gates,Philanthropist,Startup,2024-02-17,85,15772,720,74
+379,Figuring Out Episode 379,Vijay Mallya,Businessman,Sports,2024-02-21,109,82465,2961,263
+380,Figuring Out Episode 380,Nikhil Kamath,Entrepreneur,Startup,2024-02-25,97,3003215,176487,1775
+381,Figuring Out Episode 381,Aman Gupta,Entrepreneur,Sports,2024-02-29,62,520400,37100,2595
+382,Figuring Out Episode 382,Namita Thapar,Entrepreneur,Politics,2024-03-04,102,69866,2372,250
+383,Figuring Out Episode 383,Dr. Pal,Doctor,Health,2024-03-08,78,58270,3648,329
+384,Figuring Out Episode 384,Bill Gates,Philanthropist,Sports,2024-03-12,40,4909053,184175,364
+385,Figuring Out Episode 385,Ranveer Allahbadia,Content Creator,Education,2024-03-16,55,4442590,350531,27563
+386,Figuring Out Episode 386,Nitin Gadkari,Politician,Technology,2024-03-20,135,46677,3422,316
+387,Figuring Out Episode 387,Dr. Pal,Doctor,Technology,2024-03-24,59,2603516,61647,6767
+388,Figuring Out Episode 388,Ritesh Agarwal,Entrepreneur,Politics,2024-03-28,106,8297801,644524,31084
+389,Figuring Out Episode 389,Ankur Warikoo,Entrepreneur,Finance,2024-04-01,91,834764,37087,1963
+390,Figuring Out Episode 390,Nitin Gadkari,Politician,Sports,2024-04-05,144,86638,2225,169
+391,Figuring Out Episode 391,S. Jaishankar,Politician,Finance,2024-04-09,63,475691,16668,592
+392,Figuring Out Episode 392,Deepinder Goyal,Entrepreneur,Startup,2024-04-13,63,99922,6928,385
+393,Figuring Out Episode 393,Aamir Khan,Actor,Startup,2024-04-17,47,56627,3341,183
+394,Figuring Out Episode 394,Ranveer Allahbadia,Content Creator,Finance,2024-04-21,43,69270,3119,121
+395,Figuring Out Episode 395,Vijay Mallya,Businessman,Entertainment,2024-04-25,106,237064,9291,222
+396,Figuring Out Episode 396,Nikhil Kamath,Entrepreneur,Finance,2024-04-29,124,4317700,189214,4270
+397,Figuring Out Episode 397,S. Jaishankar,Politician,Technology,2024-05-03,167,15596,1170,105
+398,Figuring Out Episode 398,Bill Gates,Philanthropist,Politics,2024-05-07,111,60165,2286,97
+399,Figuring Out Episode 399,Dr. Pal,Doctor,Motivation,2024-05-11,162,5123584,175133,13550
+400,Figuring Out Episode 400,Vijay Mallya,Businessman,Motivation,2024-05-15,103,21497,908,91
+401,Figuring Out Episode 401,Namita Thapar,Entrepreneur,Sports,2024-05-19,168,501078,25251,2035
+402,Figuring Out Episode 402,Ankur Warikoo,Entrepreneur,Business,2024-05-23,111,60905,2175,106
+403,Figuring Out Episode 403,Vijay Mallya,Businessman,Finance,2024-05-27,103,6996728,559558,20972
+404,Figuring Out Episode 404,Aamir Khan,Actor,Technology,2024-05-31,130,44934,2355,254
+405,Figuring Out Episode 405,Deepinder Goyal,Entrepreneur,Business,2024-06-04,130,6335227,382303,38818
+406,Figuring Out Episode 406,Ritesh Agarwal,Entrepreneur,Education,2024-06-08,49,249005,12509,409
+407,Figuring Out Episode 407,Nikhil Kamath,Entrepreneur,Sports,2024-06-12,91,17362,854,50
+408,Figuring Out Episode 408,Nitin Gadkari,Politician,Entertainment,2024-06-16,76,851763,16073,352
+409,Figuring Out Episode 409,S. Jaishankar,Politician,Technology,2024-06-20,65,482614,29340,2762
+410,Figuring Out Episode 410,Ankur Warikoo,Entrepreneur,Education,2024-06-24,121,49552,3102,273
+411,Figuring Out Episode 411,Deepinder Goyal,Entrepreneur,Technology,2024-06-28,118,83659,4873,229
+412,Figuring Out Episode 412,Smriti Irani,Politician,Entertainment,2024-07-02,48,1030163,78977,6465
+413,Figuring Out Episode 413,Deepinder Goyal,Entrepreneur,Startup,2024-07-06,124,4706007,243586,16308
+414,Figuring Out Episode 414,Nikhil Kamath,Entrepreneur,Sports,2024-07-10,154,41194,2321,72
+415,Figuring Out Episode 415,Bill Gates,Philanthropist,Finance,2024-07-14,40,5186600,100654,4255
+416,Figuring Out Episode 416,Vijay Mallya,Businessman,Technology,2024-07-18,129,60585,4392,302
+417,Figuring Out Episode 417,Namita Thapar,Entrepreneur,Health,2024-07-22,81,9044494,518367,45083
+418,Figuring Out Episode 418,Dr. Pal,Doctor,Finance,2024-07-26,58,938016,15294,584
+419,Figuring Out Episode 419,Ankur Warikoo,Entrepreneur,Sports,2024-07-30,163,3699529,73528,1575
+420,Figuring Out Episode 420,Bill Gates,Philanthropist,Business,2024-08-03,65,3768193,274452,10345
+421,Figuring Out Episode 421,Ankur Warikoo,Entrepreneur,Motivation,2024-08-07,107,7866576,401331,47889
+422,Figuring Out Episode 422,Smriti Irani,Politician,Education,2024-08-11,79,48980,1985,190
+423,Figuring Out Episode 423,Vijay Mallya,Businessman,Entertainment,2024-08-15,162,57294,1956,219
+424,Figuring Out Episode 424,Sunita Williams,Astronaut,Education,2024-08-19,69,22712,1282,60
+425,Figuring Out Episode 425,Smriti Irani,Politician,Startup,2024-08-23,134,9205682,296655,25446
+426,Figuring Out Episode 426,Ranveer Allahbadia,Content Creator,Politics,2024-08-27,97,58418,1876,169
+427,Figuring Out Episode 427,Karan Johar,Filmmaker,Sports,2024-08-31,178,3535551,206424,2858
+428,Figuring Out Episode 428,Gaur Gopal Das,Spiritual Speaker,Motivation,2024-09-04,161,338564,23088,1764
+429,Figuring Out Episode 429,Ritesh Agarwal,Entrepreneur,Motivation,2024-09-08,172,40886,1662,58
+430,Figuring Out Episode 430,Ritesh Agarwal,Entrepreneur,Startup,2024-09-12,82,98805,7578,509
+431,Figuring Out Episode 431,Sunita Williams,Astronaut,Technology,2024-09-16,91,232315,4668,399
+432,Figuring Out Episode 432,Nitin Gadkari,Politician,Finance,2024-09-20,139,6364506,473654,4441
+433,Figuring Out Episode 433,Namita Thapar,Entrepreneur,Business,2024-09-24,173,678870,33115,3806
+434,Figuring Out Episode 434,Gaur Gopal Das,Spiritual Speaker,Finance,2024-09-28,67,24748,1282,124
+435,Figuring Out Episode 435,Ritesh Agarwal,Entrepreneur,Politics,2024-10-02,138,5799841,418799,26978
+436,Figuring Out Episode 436,Peyush Bansal,Entrepreneur,Startup,2024-10-06,142,84976,2225,153
+437,Figuring Out Episode 437,Vijay Mallya,Businessman,Sports,2024-10-10,45,61877,3927,187
+438,Figuring Out Episode 438,Ankur Warikoo,Entrepreneur,Finance,2024-10-14,98,426053,30158,2855
+439,Figuring Out Episode 439,Nitin Gadkari,Politician,Entertainment,2024-10-18,62,879850,28605,1757
+440,Figuring Out Episode 440,Sunita Williams,Astronaut,Sports,2024-10-22,54,7831185,364071,33899
+441,Figuring Out Episode 441,Aman Gupta,Entrepreneur,Motivation,2024-10-26,47,6219779,298186,8939
+442,Figuring Out Episode 442,Deepinder Goyal,Entrepreneur,Business,2024-10-30,132,35265,1100,108
+443,Figuring Out Episode 443,Sunita Williams,Astronaut,Business,2024-11-03,101,8788293,358573,8168
+444,Figuring Out Episode 444,Ashneer Grover,Entrepreneur,Entertainment,2024-11-07,129,74066,5735,535
+445,Figuring Out Episode 445,Ashneer Grover,Entrepreneur,Politics,2024-11-11,47,5339593,368466,5973
+446,Figuring Out Episode 446,Ranveer Allahbadia,Content Creator,Politics,2024-11-15,144,16507,942,76
+447,Figuring Out Episode 447,Aman Gupta,Entrepreneur,Startup,2024-11-19,42,918207,68175,5353
+448,Figuring Out Episode 448,Aamir Khan,Actor,Politics,2024-11-23,148,6124763,476853,42172
+449,Figuring Out Episode 449,Ranveer Allahbadia,Content Creator,Motivation,2024-11-27,141,55706,2525,223
+450,Figuring Out Episode 450,Ritesh Agarwal,Entrepreneur,Motivation,2024-12-01,112,9581776,745668,49101
+451,Figuring Out Episode 451,Smriti Irani,Politician,Sports,2024-12-05,110,99707,3675,191
+452,Figuring Out Episode 452,Karan Johar,Filmmaker,Health,2024-12-09,54,95998,2375,245
+453,Figuring Out Episode 453,Kunal Shah,Entrepreneur,Education,2024-12-13,115,6361758,153289,884
+454,Figuring Out Episode 454,Karan Johar,Filmmaker,Entertainment,2024-12-17,88,7514172,129963,11651
+455,Figuring Out Episode 455,Ankur Warikoo,Entrepreneur,Motivation,2024-12-21,116,9969688,658181,47038
+456,Figuring Out Episode 456,Deepinder Goyal,Entrepreneur,Politics,2024-12-25,86,685365,14628,312
+457,Figuring Out Episode 457,Ankur Warikoo,Entrepreneur,Technology,2024-12-29,124,193637,5715,364
+458,Figuring Out Episode 458,Ashneer Grover,Entrepreneur,Business,2025-01-02,58,714015,50215,3904
+459,Figuring Out Episode 459,Peyush Bansal,Entrepreneur,Technology,2025-01-06,53,3010177,119830,4938
+460,Figuring Out Episode 460,Nitin Gadkari,Politician,Startup,2025-01-10,120,310026,24543,1924
+461,Figuring Out Episode 461,Deepinder Goyal,Entrepreneur,Business,2025-01-14,41,6580596,520733,20589
+462,Figuring Out Episode 462,Dr. Pal,Doctor,Finance,2025-01-18,73,3828735,247686,16092
+463,Figuring Out Episode 463,Kunal Shah,Entrepreneur,Technology,2025-01-22,41,764259,32776,2005
+464,Figuring Out Episode 464,Vijay Mallya,Businessman,Health,2025-01-26,44,79963,5835,593
+465,Figuring Out Episode 465,Bill Gates,Philanthropist,Politics,2025-01-30,73,92141,5535,402
+466,Figuring Out Episode 466,S. Jaishankar,Politician,Politics,2025-02-03,114,60272,1159,55
+467,Figuring Out Episode 467,Dr. Pal,Doctor,Startup,2025-02-07,127,725339,31326,2863
+468,Figuring Out Episode 468,Peyush Bansal,Entrepreneur,Technology,2025-02-11,44,57087,4374,520
+469,Figuring Out Episode 469,Aamir Khan,Actor,Motivation,2025-02-15,83,39402,2471,200
+470,Figuring Out Episode 470,S. Jaishankar,Politician,Motivation,2025-02-19,52,845652,60866,2145
+471,Figuring Out Episode 471,Kunal Shah,Entrepreneur,Finance,2025-02-23,146,2813842,195133,1630
+472,Figuring Out Episode 472,Dr. Pal,Doctor,Business,2025-02-27,117,229598,13918,470
+473,Figuring Out Episode 473,Gaur Gopal Das,Spiritual Speaker,Technology,2025-03-03,66,205885,11422,330
+474,Figuring Out Episode 474,Aman Gupta,Entrepreneur,Health,2025-03-07,91,90962,6004,559
+475,Figuring Out Episode 475,Karan Johar,Filmmaker,Business,2025-03-11,180,7004931,291644,10560
+476,Figuring Out Episode 476,Peyush Bansal,Entrepreneur,Finance,2025-03-15,68,821634,24848,102
+477,Figuring Out Episode 477,Ritesh Agarwal,Entrepreneur,Finance,2025-03-19,105,97690,6415,126
+478,Figuring Out Episode 478,Aamir Khan,Actor,Startup,2025-03-23,50,410401,7491,882
+479,Figuring Out Episode 479,Smriti Irani,Politician,Business,2025-03-27,42,940534,59258,828
+480,Figuring Out Episode 480,Nitin Gadkari,Politician,Entertainment,2025-03-31,108,778636,29774,1842
+481,Figuring Out Episode 481,Nikhil Kamath,Entrepreneur,Education,2025-04-04,109,58840,1317,101
+482,Figuring Out Episode 482,Ranveer Allahbadia,Content Creator,Finance,2025-04-08,73,8075620,586274,21910
+483,Figuring Out Episode 483,Vijay Mallya,Businessman,Education,2025-04-12,86,7979786,370053,37336
+484,Figuring Out Episode 484,Kunal Shah,Entrepreneur,Startup,2025-04-16,163,7016291,118386,11264
+485,Figuring Out Episode 485,Peyush Bansal,Entrepreneur,Sports,2025-04-20,43,24802,474,91
+486,Figuring Out Episode 486,Aman Gupta,Entrepreneur,Motivation,2025-04-24,64,4757843,341395,34069
+487,Figuring Out Episode 487,Gaur Gopal Das,Spiritual Speaker,Technology,2025-04-28,78,861949,32300,2820
+488,Figuring Out Episode 488,Namita Thapar,Entrepreneur,Education,2025-05-02,166,1195368,90530,8333
+489,Figuring Out Episode 489,Deepinder Goyal,Entrepreneur,Business,2025-05-06,169,887931,27222,1189
+490,Figuring Out Episode 490,Aamir Khan,Actor,Education,2025-05-10,153,774567,52757,695
+491,Figuring Out Episode 491,Ritesh Agarwal,Entrepreneur,Business,2025-05-14,66,192295,6834,559
+492,Figuring Out Episode 492,Ranveer Allahbadia,Content Creator,Politics,2025-05-18,170,64046,4256,366
+493,Figuring Out Episode 493,Namita Thapar,Entrepreneur,Health,2025-05-22,156,786393,30368,272
+494,Figuring Out Episode 494,Ankur Warikoo,Entrepreneur,Education,2025-05-26,69,8937865,515856,46968
+495,Figuring Out Episode 495,S. Jaishankar,Politician,Politics,2025-05-30,180,332518,12663,1347
+496,Figuring Out Episode 496,Aman Gupta,Entrepreneur,Startup,2025-06-03,144,59006,4324,302
+497,Figuring Out Episode 497,S. Jaishankar,Politician,Health,2025-06-07,157,43330,990,100
+498,Figuring Out Episode 498,Sunita Williams,Astronaut,Entertainment,2025-06-11,71,54293,4084,478
+499,Figuring Out Episode 499,Dr. Pal,Doctor,Motivation,2025-06-15,52,69950,5431,54
+500,Figuring Out Episode 500,Namita Thapar,Entrepreneur,Entertainment,2025-06-19,84,9102253,598657,23276
+501,Figuring Out Episode 501,Nitin Gadkari,Politician,Entertainment,2025-06-23,103,6399642,462632,27487
+502,Figuring Out Episode 502,Karan Johar,Filmmaker,Technology,2025-06-27,171,459513,30930,615
+503,Figuring Out Episode 503,Smriti Irani,Politician,Politics,2025-07-01,128,81802,2342,232
+504,Figuring Out Episode 504,Nitin Gadkari,Politician,Finance,2025-07-05,130,9453929,568467,42305
+505,Figuring Out Episode 505,Namita Thapar,Entrepreneur,Motivation,2025-07-09,113,8004117,509153,55191
+506,Figuring Out Episode 506,Gaur Gopal Das,Spiritual Speaker,Business,2025-07-13,91,11673,464,53
+507,Figuring Out Episode 507,Karan Johar,Filmmaker,Politics,2025-07-17,92,31094,2162,226
+508,Figuring Out Episode 508,Namita Thapar,Entrepreneur,Motivation,2025-07-21,97,14234,783,93
+509,Figuring Out Episode 509,Namita Thapar,Entrepreneur,Technology,2025-07-25,139,9571853,322538,3128
+510,Figuring Out Episode 510,Gaur Gopal Das,Spiritual Speaker,Entertainment,2025-07-29,153,99803,6321,257
+511,Figuring Out Episode 511,Aamir Khan,Actor,Health,2025-08-02,89,7169672,362283,39593
+512,Figuring Out Episode 512,Smriti Irani,Politician,Finance,2025-08-06,136,68827,5338,576
+513,Figuring Out Episode 513,Vijay Mallya,Businessman,Business,2025-08-10,124,66165,1684,115
+514,Figuring Out Episode 514,Dr. Pal,Doctor,Entertainment,2025-08-14,117,141880,7632,842
+515,Figuring Out Episode 515,Peyush Bansal,Entrepreneur,Motivation,2025-08-18,96,85061,5610,375
+516,Figuring Out Episode 516,Deepinder Goyal,Entrepreneur,Technology,2025-08-22,63,78236,3288,324
+517,Figuring Out Episode 517,Ashneer Grover,Entrepreneur,Entertainment,2025-08-26,175,323717,12447,497
+518,Figuring Out Episode 518,Peyush Bansal,Entrepreneur,Health,2025-08-30,102,83575,4887,506
+519,Figuring Out Episode 519,Vijay Mallya,Businessman,Politics,2025-09-03,46,99463,3986,326
+520,Figuring Out Episode 520,Aman Gupta,Entrepreneur,Health,2025-09-07,122,639292,29818,1264
+521,Figuring Out Episode 521,Aman Gupta,Entrepreneur,Finance,2025-09-11,93,3808418,189119,20593
+522,Figuring Out Episode 522,Sunita Williams,Astronaut,Finance,2025-09-15,79,99837,4987,495
+523,Figuring Out Episode 523,Bill Gates,Philanthropist,Startup,2025-09-19,104,70191,1452,56
+524,Figuring Out Episode 524,Namita Thapar,Entrepreneur,Technology,2025-09-23,150,702891,29167,1897
+525,Figuring Out Episode 525,Ankur Warikoo,Entrepreneur,Finance,2025-09-27,51,2984841,45917,5115
+526,Figuring Out Episode 526,Nikhil Kamath,Entrepreneur,Entertainment,2025-10-01,62,627262,41492,2518
+527,Figuring Out Episode 527,Smriti Irani,Politician,Motivation,2025-10-05,96,7628900,129716,2611
+528,Figuring Out Episode 528,Nitin Gadkari,Politician,Business,2025-10-09,76,5948917,144944,12276
+529,Figuring Out Episode 529,S. Jaishankar,Politician,Politics,2025-10-13,93,7611593,385064,5628
+530,Figuring Out Episode 530,Ashneer Grover,Entrepreneur,Entertainment,2025-10-17,104,37752,961,78
+531,Figuring Out Episode 531,Sunita Williams,Astronaut,Finance,2025-10-21,114,1912484,86027,9055
+532,Figuring Out Episode 532,Nikhil Kamath,Entrepreneur,Sports,2025-10-25,72,4312117,227415,10891
+533,Figuring Out Episode 533,Aamir Khan,Actor,Sports,2025-10-29,118,23113,824,78
+534,Figuring Out Episode 534,Ritesh Agarwal,Entrepreneur,Business,2025-11-02,120,693024,53579,1431
+535,Figuring Out Episode 535,Aamir Khan,Actor,Sports,2025-11-06,162,846794,58942,1150
+536,Figuring Out Episode 536,Dr. Pal,Doctor,Entertainment,2025-11-10,60,476167,24217,769
+537,Figuring Out Episode 537,Karan Johar,Filmmaker,Finance,2025-11-14,44,664781,41668,676
+538,Figuring Out Episode 538,Aman Gupta,Entrepreneur,Motivation,2025-11-18,106,7797028,224783,1251
+539,Figuring Out Episode 539,Namita Thapar,Entrepreneur,Politics,2025-11-22,74,595036,24106,2465
+540,Figuring Out Episode 540,Dr. Pal,Doctor,Health,2025-11-26,82,635205,24551,93
+541,Figuring Out Episode 541,Aman Gupta,Entrepreneur,Startup,2025-11-30,163,28398,1471,122
+542,Figuring Out Episode 542,Ashneer Grover,Entrepreneur,Health,2025-12-04,50,15297,291,73
+543,Figuring Out Episode 543,Sunita Williams,Astronaut,Business,2025-12-08,50,929906,42337,3774
+544,Figuring Out Episode 544,Ankur Warikoo,Entrepreneur,Entertainment,2025-12-12,179,9747185,671844,34563
+545,Figuring Out Episode 545,Ritesh Agarwal,Entrepreneur,Motivation,2025-12-16,104,494956,26331,368
+546,Figuring Out Episode 546,Ranveer Allahbadia,Content Creator,Education,2025-12-20,163,641455,43696,2876
+547,Figuring Out Episode 547,Kunal Shah,Entrepreneur,Motivation,2025-12-24,111,626214,16134,207
+548,Figuring Out Episode 548,Sunita Williams,Astronaut,Finance,2025-12-28,98,295984,16022,1723
+549,Figuring Out Episode 549,Gaur Gopal Das,Spiritual Speaker,Health,2026-01-01,81,855242,50365,3974
+550,Figuring Out Episode 550,Gaur Gopal Das,Spiritual Speaker,Startup,2026-01-05,171,12942,676,60
+551,Figuring Out Episode 551,Vijay Mallya,Businessman,Motivation,2026-01-09,143,85008,2702,142
+552,Figuring Out Episode 552,Kunal Shah,Entrepreneur,Finance,2026-01-13,95,1312392,81786,4694
+553,Figuring Out Episode 553,Dr. Pal,Doctor,Entertainment,2026-01-17,76,89498,2618,260
+554,Figuring Out Episode 554,Ritesh Agarwal,Entrepreneur,Education,2026-01-21,57,753484,19516,1453
+555,Figuring Out Episode 555,Aamir Khan,Actor,Technology,2026-01-25,78,59572,957,114
+556,Figuring Out Episode 556,Kunal Shah,Entrepreneur,Motivation,2026-01-29,168,8983760,485014,57574
+557,Figuring Out Episode 557,S. Jaishankar,Politician,Technology,2026-02-02,173,3186555,159498,89
+558,Figuring Out Episode 558,Gaur Gopal Das,Spiritual Speaker,Education,2026-02-06,137,145548,4354,460
+559,Figuring Out Episode 559,Ashneer Grover,Entrepreneur,Health,2026-02-10,61,943706,22368,2004
+560,Figuring Out Episode 560,Smriti Irani,Politician,Entertainment,2026-02-14,173,670143,18285,79
+561,Figuring Out Episode 561,S. Jaishankar,Politician,Technology,2026-02-18,132,7291957,206743,10401
+562,Figuring Out Episode 562,S. Jaishankar,Politician,Entertainment,2026-02-22,133,546768,38587,3519
+563,Figuring Out Episode 563,Kunal Shah,Entrepreneur,Education,2026-02-26,85,46118,1930,192
+564,Figuring Out Episode 564,Ashneer Grover,Entrepreneur,Sports,2026-03-02,141,681866,54039,4782
+565,Figuring Out Episode 565,Nitin Gadkari,Politician,Finance,2026-03-06,94,224870,14819,381
+566,Figuring Out Episode 566,Aman Gupta,Entrepreneur,Startup,2026-03-10,139,6678044,366702,3461
+567,Figuring Out Episode 567,Bill Gates,Philanthropist,Finance,2026-03-14,56,963245,72417,7183
+568,Figuring Out Episode 568,Karan Johar,Filmmaker,Technology,2026-03-18,173,2342843,40892,3198
+569,Figuring Out Episode 569,Smriti Irani,Politician,Health,2026-03-22,172,3940561,185734,400
+570,Figuring Out Episode 570,Smriti Irani,Politician,Business,2026-03-26,132,9565571,577753,22264
+571,Figuring Out Episode 571,Aamir Khan,Actor,Technology,2026-03-30,130,95854,7648,848
+572,Figuring Out Episode 572,Ranveer Allahbadia,Content Creator,Finance,2026-04-03,180,4360650,69765,1174
+573,Figuring Out Episode 573,Smriti Irani,Politician,Health,2026-04-07,89,711248,55202,2315
+574,Figuring Out Episode 574,Dr. Pal,Doctor,Finance,2026-04-11,58,702833,18538,2123
+575,Figuring Out Episode 575,Aman Gupta,Entrepreneur,Entertainment,2026-04-15,104,2963085,228708,17676
+576,Figuring Out Episode 576,Dr. Pal,Doctor,Education,2026-04-19,157,59424,3817,447
+577,Figuring Out Episode 577,Ritesh Agarwal,Entrepreneur,Health,2026-04-23,98,605382,11738,1347
+578,Figuring Out Episode 578,Ankur Warikoo,Entrepreneur,Health,2026-04-27,113,9665502,151091,8679
+579,Figuring Out Episode 579,Nikhil Kamath,Entrepreneur,Education,2026-05-01,120,62288,3179,141
+580,Figuring Out Episode 580,Ashneer Grover,Entrepreneur,Education,2026-05-05,91,38647,2958,147
+581,Figuring Out Episode 581,Aamir Khan,Actor,Entertainment,2026-05-09,131,41726,1175,81
+582,Figuring Out Episode 582,Nitin Gadkari,Politician,Entertainment,2026-05-13,41,2316802,178684,16193
+583,Figuring Out Episode 583,Namita Thapar,Entrepreneur,Entertainment,2026-05-17,110,989203,54745,4083
+584,Figuring Out Episode 584,Peyush Bansal,Entrepreneur,Business,2026-05-21,174,901387,36832,1100
+585,Figuring Out Episode 585,Gaur Gopal Das,Spiritual Speaker,Startup,2026-05-25,157,1546310,58100,5672
+586,Figuring Out Episode 586,S. Jaishankar,Politician,Health,2026-05-29,137,6295749,97881,11094
+587,Figuring Out Episode 587,Ritesh Agarwal,Entrepreneur,Motivation,2026-06-02,107,7066680,501873,12315
+588,Figuring Out Episode 588,Aamir Khan,Actor,Health,2026-06-06,147,594241,16017,918
+589,Figuring Out Episode 589,Ashneer Grover,Entrepreneur,Startup,2026-06-10,98,995825,44112,4730
+590,Figuring Out Episode 590,S. Jaishankar,Politician,Health,2026-06-14,77,4956154,213581,12530
+591,Figuring Out Episode 591,Nitin Gadkari,Politician,Motivation,2026-06-18,176,71995,3052,118
+592,Figuring Out Episode 592,Ankur Warikoo,Entrepreneur,Technology,2026-06-22,65,5210645,368927,3176
+593,Figuring Out Episode 593,Deepinder Goyal,Entrepreneur,Education,2026-06-26,125,325933,22663,444
+594,Figuring Out Episode 594,Karan Johar,Filmmaker,Sports,2026-06-30,90,477808,7783,174
+595,Figuring Out Episode 595,Ritesh Agarwal,Entrepreneur,Motivation,2026-07-04,164,781433,29758,2807
+596,Figuring Out Episode 596,Dr. Pal,Doctor,Startup,2026-07-08,126,499581,28007,643
+597,Figuring Out Episode 597,Gaur Gopal Das,Spiritual Speaker,Health,2026-07-12,120,92742,1868,137
+598,Figuring Out Episode 598,Ankur Warikoo,Entrepreneur,Education,2026-07-16,132,5487442,312245,17826
+599,Figuring Out Episode 599,Ritesh Agarwal,Entrepreneur,Startup,2026-07-20,100,78280,2109,55
+600,Figuring Out Episode 600,Karan Johar,Filmmaker,Education,2026-07-24,180,320800,6959,115
+601,Figuring Out Episode 601,Vijay Mallya,Businessman,Finance,2026-07-28,107,7660764,495841,5505
+602,Figuring Out Episode 602,Kunal Shah,Entrepreneur,Education,2026-08-01,72,188406,5634,340
+603,Figuring Out Episode 603,Nitin Gadkari,Politician,Sports,2026-08-05,161,79041,1366,95
+604,Figuring Out Episode 604,Dr. Pal,Doctor,Startup,2026-08-09,156,80855,6308,602
+605,Figuring Out Episode 605,Ritesh Agarwal,Entrepreneur,Motivation,2026-08-13,98,648887,48069,3995
+606,Figuring Out Episode 606,Nikhil Kamath,Entrepreneur,Business,2026-08-17,40,422823,13482,671
+607,Figuring Out Episode 607,Aman Gupta,Entrepreneur,Education,2026-08-21,116,460589,22928,2064
+608,Figuring Out Episode 608,Bill Gates,Philanthropist,Motivation,2026-08-25,135,5914425,177604,286
+609,Figuring Out Episode 609,Sunita Williams,Astronaut,Technology,2026-08-29,96,687783,21488,1646
+610,Figuring Out Episode 610,Karan Johar,Filmmaker,Politics,2026-09-02,176,5019180,324715,17866
+611,Figuring Out Episode 611,Karan Johar,Filmmaker,Education,2026-09-06,155,64120,1531,78
+612,Figuring Out Episode 612,Karan Johar,Filmmaker,Motivation,2026-09-10,45,615895,10014,151
+613,Figuring Out Episode 613,Deepinder Goyal,Entrepreneur,Business,2026-09-14,99,23405,1439,143
+614,Figuring Out Episode 614,Nikhil Kamath,Entrepreneur,Education,2026-09-18,135,29750,1107,89
+615,Figuring Out Episode 615,Dr. Pal,Doctor,Technology,2026-09-22,58,14159,263,99
+616,Figuring Out Episode 616,Namita Thapar,Entrepreneur,Finance,2026-09-26,103,290425,19784,101
+617,Figuring Out Episode 617,Ranveer Allahbadia,Content Creator,Motivation,2026-09-30,93,68059,3059,98
+618,Figuring Out Episode 618,Peyush Bansal,Entrepreneur,Motivation,2026-10-04,173,814544,20615,222
+619,Figuring Out Episode 619,S. Jaishankar,Politician,Health,2026-10-08,68,43202,1660,63
+620,Figuring Out Episode 620,Aamir Khan,Actor,Entertainment,2026-10-12,70,92956,2405,120
+621,Figuring Out Episode 621,Ranveer Allahbadia,Content Creator,Entertainment,2026-10-16,79,1704531,112372,7836
+622,Figuring Out Episode 622,Ashneer Grover,Entrepreneur,Sports,2026-10-20,55,360804,7555,683
+623,Figuring Out Episode 623,Vijay Mallya,Businessman,Startup,2026-10-24,164,3582322,178625,3569
+624,Figuring Out Episode 624,Aamir Khan,Actor,Technology,2026-10-28,131,685472,42949,224
+625,Figuring Out Episode 625,Nitin Gadkari,Politician,Motivation,2026-11-01,165,9142018,397106,19364
+626,Figuring Out Episode 626,Sunita Williams,Astronaut,Entertainment,2026-11-05,81,295692,18512,1177
+627,Figuring Out Episode 627,Nikhil Kamath,Entrepreneur,Education,2026-11-09,40,262555,17922,1553
+628,Figuring Out Episode 628,Aman Gupta,Entrepreneur,Entertainment,2026-11-13,101,59681,3299,236
+629,Figuring Out Episode 629,Ankur Warikoo,Entrepreneur,Motivation,2026-11-17,79,18302,897,81
+630,Figuring Out Episode 630,Kunal Shah,Entrepreneur,Motivation,2026-11-21,57,7875379,282974,6358
+631,Figuring Out Episode 631,Vijay Mallya,Businessman,Finance,2026-11-25,48,27009,593,62
+632,Figuring Out Episode 632,Ritesh Agarwal,Entrepreneur,Entertainment,2026-11-29,105,7519606,352249,40942
+633,Figuring Out Episode 633,Vijay Mallya,Businessman,Education,2026-12-03,60,58018,4378,156
+634,Figuring Out Episode 634,Dr. Pal,Doctor,Sports,2026-12-07,54,7055334,446786,27309
+635,Figuring Out Episode 635,Kunal Shah,Entrepreneur,Finance,2026-12-11,95,1682046,32926,1294
+636,Figuring Out Episode 636,Aman Gupta,Entrepreneur,Motivation,2026-12-15,103,4875838,195260,6378
+637,Figuring Out Episode 637,Ritesh Agarwal,Entrepreneur,Sports,2026-12-19,157,7965641,174116,18942
+638,Figuring Out Episode 638,Gaur Gopal Das,Spiritual Speaker,Startup,2026-12-23,176,4026551,165496,11109
+639,Figuring Out Episode 639,Kunal Shah,Entrepreneur,Sports,2026-12-27,145,6287423,499504,21326
+640,Figuring Out Episode 640,Gaur Gopal Das,Spiritual Speaker,Motivation,2026-12-31,105,5038654,254279,12340
