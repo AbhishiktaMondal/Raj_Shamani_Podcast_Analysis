@@ -12,24 +12,4 @@ Total Episodes : 640
 
 
 ## SQL Concepts Used
-SELECT
-
-WHERE
-
-ORDER BY
-
-GROUP BY
-
-HAVING
-
-Aggregate Functions
-
-CASE WHEN
-
-Subqueries
-
-Common Table Expressions (CTEs)
-
-Window Functions
-
-Date Functions
+SELECT, WHERE, ORDER BY, GROUP BY, HAVING, Aggregate Functions, CASE WHEN, Subqueries, CTEs, Window Functions, Date Functions
