@@ -30,3 +30,59 @@ Dynamic Filters
 DAX Measures  
 Business KPIs  
 Custom Dashboard Theme
+
+
+## 🎯 Problems Solved
+Identified top-performing podcast episodes and guests.  
+Measured audience engagement across episodes.  
+Analyzed podcast performance by category and year.  
+Detected low-performing episodes needing promotion.  
+Generated actionable business insights for content strategy.
+
+
+## 📌 Key Findings
+Business and Entrepreneurship podcasts generated the highest audience engagement.  
+Repeat guest appearances contributed significantly to total views.  
+Audience engagement varied across different guest professions and podcast categories.  
+Podcast publishing frequency changed over the years, with some years showing higher activity than others.  
+Episodes with higher likes and comments generally achieved better overall engagement.  
+Episode duration alone did not consistently determine audience engagement.  
+A small number of episodes accounted for a large share of total views and engagement.  
+Several episodes had relatively low views and engagement, indicating opportunities for improved promotion.  
+Engagement trends changed over time, reflecting shifts in audience preferences.  
+Data analysis highlighted key guests, categories, and content strategies that can help improve future podcast performance.
+
+
+## 📈 Project Outcome
+Built an end-to-end SQL and Power BI analytics solution.  
+Converted raw podcast data into meaningful insights.  
+Created an interactive dashboard for performance monitoring.  
+Supported data-driven decision-making with business recommendations.  
+Demonstrated practical data analysis and visualization skills.
+
+
+## 💼 Skills Demonstrated
+SQL (PostgreSQL)  
+Data Analysis  
+Data Cleaning  
+Data Visualization (Power BI)  
+DAX Measures  
+KPI Development  
+Business Analytics  
+Data Storytelling  
+Problem Solving  
+Dashboard Design  
+Git & GitHub  
+Analytical Thinking
+
+
+## ## 📷 Dashboard Preview
+![Dashboard](https://github.com/AbhishiktaMondal/student_academic_performance_analysis/blob/main/Student%20Academic%20Performance%20Analysis.png)
+
+
+## 👩‍💻 Author
+Abhishikta Mondal
+
+
+## LinkedIn
+**LinkedIn** : www.linkedin.com/in/abhishiktamondal
