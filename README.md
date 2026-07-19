@@ -77,7 +77,7 @@ Analytical Thinking
 
 
 ## ## 📷 Dashboard Preview
-![Dashboard](https://github.com/AbhishiktaMondal/student_academic_performance_analysis/blob/main/Student%20Academic%20Performance%20Analysis.png)
+![Dashboard]([https://github.com/AbhishiktaMondal/student_academic_performance_analysis/blob/main/Student%20Academic%20Performance%20Analysis.png](https://github.com/AbhishiktaMondal/Raj_Shamani_Podcast_Analysis/blob/main/Screenshot%202026-07-18%20210509.png))
 
 
 ## 👩‍💻 Author
