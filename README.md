@@ -16,16 +16,10 @@ SELECT, WHERE, ORDER BY, GROUP BY, HAVING, Aggregate Functions, CASE WHEN, Subqu
 
 
 ## Power BI Features
-KPI Cards
-
-Interactive Slicers
-
-Drill-down Analysis
-
-Dynamic Filters
-
-DAX Measures
-
-Business KPIs
-
+KPI Cards  
+Interactive Slicers  
+Drill-down Analysis  
+Dynamic Filters  
+DAX Measures  
+Business KPIs  
 Custom Dashboard Theme
