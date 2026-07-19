@@ -4,15 +4,22 @@ This project analyzes the performance of Raj Shamani's "Figuring Out" podcast us
 
 
 ## 📊 Dataset
-Source : Custom analytical dataset created for portfolio purposes.
-
-Duration : 2020 – 2026
-
-Total Episodes : 640
-
+Source: Custom analytical dataset created for portfolio purposes.  
+Duration: 2020-2026  
+Total Episodes: 640
 
 ## SQL Concepts Used
-SELECT, WHERE, ORDER BY, GROUP BY, HAVING, Aggregate Functions, CASE WHEN, Subqueries, CTEs, Window Functions, Date Functions
+SELECT  
+WHERE  
+ORDER BY  
+GROUP BY  
+HAVING  
+Aggregate Function  
+CASE WHEN  
+Subqueries  
+CTEs  
+Window Function  
+Date Function
 
 
 ## Power BI Features
